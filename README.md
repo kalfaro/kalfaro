@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats
 
-![Kenneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalfaron&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalfaron&layout=compact)
+![Kenneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalfaro&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalfaro&layout=compact)
 
 ---
 
