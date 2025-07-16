@@ -1,3 +1,9 @@
+# 🚧 Under Construction
+
+Hi there! 👋  
+This GitHub profile is currently **under construction**.  
+I’m actively working on new projects and improvements — stay tuned!
+
 # 👋 Hi, I'm Kenneth Alfaro
 
 💻 Full-Stack Software Engineer with a passion for building scalable and modern web applications using **Ruby on Rails**, **Angular**, and **AWS**.
@@ -16,13 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kenneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalfaro&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalfaro&layout=compact)
-
----
-
 ## 🚀 Featured Projects
 
 - 🔗 [Visit my portfolio](https://kalfaro.dev) to see my latest work
@@ -34,7 +33,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/kalfaro)
 - [GitHub](https://github.com/kalfaron)
-- [Email](mailto:example@gmail.com)
 
 ---
 
